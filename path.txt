@@ -1,0 +1,8 @@
+admincms/admin.php
+admin/dashboard.php
+admin/index.php
+admin/home.php
+admincms/dashboard.php
+admin/main.php
+admincms/main.php
+admincms/home.php
