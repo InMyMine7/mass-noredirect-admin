@@ -31,7 +31,7 @@ pip install requests colorama
    - `path.txt`: Contains paths to check for admin dashboards (one per line)
 2. Run the script:
 ```bash
-python scanner.py
+python main.py
 ```
 3. Enter the name of the URL file when prompted (e.g., `list.txt`)
 
